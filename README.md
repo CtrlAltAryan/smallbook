@@ -1,4 +1,4 @@
-# smallbook
+# Smallbook
 
 SmallBook is a **Retrieval-Augmented Generation (RAG)** powered knowledge assistant that enables users to upload, index, and interact with their own documents through natural language conversations. The system supports multiple data sources, including text, OCR-processed documents, and video transcripts, transforming them into a searchable knowledge base using semantic embeddings and vector search.
 
